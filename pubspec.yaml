@@ -26,6 +26,8 @@ dependencies:
   calendarro: ^1.0.0
   flutter_calendar: ^0.0.1
   date_range_picker: ^1.0.5
+  flutter_calendar_carousel: ^1.4.8
+
 
 dev_dependencies:
   flutter_test:
