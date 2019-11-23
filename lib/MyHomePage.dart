@@ -18,6 +18,8 @@ class MyHomePage extends StatelessWidget{
             Divider(),
             buildFlatBtn(context, "date_range_picker"),
             Divider(),
+            buildFlatBtn(context, "flutter_calendar_carousel"),
+            Divider(),
           ],
         ),
       ),

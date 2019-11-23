@@ -13,8 +13,9 @@ class FlutterCalendarPage extends StatelessWidget {
       ),
       body: Center(
         child: Calendar(
+          showCalendarPickerIcon: true,
+            showTodayAction: true,
             isExpandable: true,
-            
         ),
       ),
     );
